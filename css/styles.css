@@ -1,0 +1,45 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 201);
+    background-image: url("https://images.pexels.com/photos/2894957/pexels-photo-2894957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width: 50%;
+    display: block;
+    /* Chicken nuggets */
+    border: solid 3px black;
+    padding: 3px;
+    margin:auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a{
+    color: forestgreen;
+}
+
+h3{
+    border: dashed green 5px;
+}
+
+.butterfingers{
+    font-family: cursive;
+    color: red;
+    font-weight: bold;
+    border: slateblue dotted 2px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.butterfingers:hover{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-decoration:line-through;
+    background-color: black;
+    color: aliceblue;
+    border: orange 5px solid;
+}
+
